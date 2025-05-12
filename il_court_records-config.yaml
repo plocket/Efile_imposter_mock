@@ -1,0 +1,8 @@
+plugin: soap
+wsdlFile: illinois-ECF-4.0-CourtRecordMDEService.wsdl
+path: /efm/CourtRecordMDEPort.svc
+#resources:
+#  - binding: wsmp:CourtRecordMDEPortSOAPBinding
+#    operation: *
+#    response:
+#      statusCode: 200
