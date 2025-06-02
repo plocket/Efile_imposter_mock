@@ -1,0 +1,8 @@
+<ns0:Envelope xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+    <ns0:Body>
+        <GetUserRequest xmlns="urn:tyler:efm:services:schema:GetUserRequest">
+            <UserID>abc123</UserID>
+        </GetUserRequest>
+    </ns0:Body>
+</ns0:Envelope>

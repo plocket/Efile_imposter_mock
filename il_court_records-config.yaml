@@ -1,6 +1,10 @@
 plugin: soap
-wsdlFile: illinois-ECF-4.0-CourtRecordMDEService.wsdl
-path: /efm/CourtRecordMDEPort.svc
+wsdlFile: massachusetts-EFMUserServiceSingle.svc.wsdl
+
+#massachusetts-ECF-4.0-FilingAssemblyMDEService.wsdl 
+
+# illinois-ECF-4.0-CourtRecordMDEService.wsdl
+# path: /efm/CourtRecordMDEPort.svc
 #resources:
 #  - binding: wsmp:CourtRecordMDEPortSOAPBinding
 #    operation: *

@@ -5,7 +5,7 @@
 			xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
 			targetNamespace="urn:tyler:efm:wsdl:WebServicesProfile-Implementation-4.0">
 
-	<import namespace="urn:oasis:names:tc:legalxml-courtfiling:wsdl:WebServicesProfile-Definitions-4.0" location="ecf-1.xsd"/>
+	<import namespace="urn:oasis:names:tc:legalxml-courtfiling:wsdl:WebServicesProfile-Definitions-4.0" location="ecf-1.wsdl"/>
 	<service name="CourtRecordMDEService">
 		        <endpoint name="SoapEndpoint"
                   binding="SoapBinding"
